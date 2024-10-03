@@ -20,7 +20,7 @@
             <div class="card-body">
                 <h1 class="text-center mb-4">Bem vindo à Click Hub</h1>
                 <div class="row">
-                    <div class="col-md-6 offset-3">
+                    <div class="col-md-10 offset-1">
                         <div class="row">
                             <div class="col-md-6">
                                 <a class="btn btn-primary btn-block" href="/login" role="button">Login</a>
